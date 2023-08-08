@@ -7,7 +7,7 @@
     margin: 4px 0;
 }
 .main-body {
-    background-color: #F28487;
+    background-color: blue;
     color: white;
     height: calc(100vh - 64px);
 }
